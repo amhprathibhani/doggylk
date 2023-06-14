@@ -1,0 +1,31 @@
+@charset "utf-8";
+.container-fluid {
+    background-color: #69A1AF;
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(241,246,255,1.00) 5.18%,rgba(218,231,255,1.00) 14.30%,rgba(248,214,255,1.00) 15.54%,rgba(200,219,255,1.00) 21.35%,rgba(192,213,255,1.00) 31.30%,rgba(145,255,228,1.00) 46.63%,rgba(105,157,255,1.00) 59.90%,rgba(50,255,175,1.00) 78.13%,rgba(45,117,255,1.00) 79.79%,rgba(0,87,255,1.00) 95.03%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(241,246,255,1.00) 5.18%,rgba(218,231,255,1.00) 14.30%,rgba(248,214,255,1.00) 15.54%,rgba(200,219,255,1.00) 21.35%,rgba(192,213,255,1.00) 31.30%,rgba(145,255,228,1.00) 46.63%,rgba(105,157,255,1.00) 59.90%,rgba(50,255,175,1.00) 78.13%,rgba(45,117,255,1.00) 79.79%,rgba(0,87,255,1.00) 95.03%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(241,246,255,1.00) 5.18%,rgba(218,231,255,1.00) 14.30%,rgba(248,214,255,1.00) 15.54%,rgba(200,219,255,1.00) 21.35%,rgba(192,213,255,1.00) 31.30%,rgba(145,255,228,1.00) 46.63%,rgba(105,157,255,1.00) 59.90%,rgba(50,255,175,1.00) 78.13%,rgba(45,117,255,1.00) 79.79%,rgba(0,87,255,1.00) 95.03%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(241,246,255,1.00) 5.18%,rgba(218,231,255,1.00) 14.30%,rgba(248,214,255,1.00) 15.54%,rgba(200,219,255,1.00) 21.35%,rgba(192,213,255,1.00) 31.30%,rgba(145,255,228,1.00) 46.63%,rgba(105,157,255,1.00) 59.90%,rgba(50,255,175,1.00) 78.13%,rgba(45,117,255,1.00) 79.79%,rgba(0,87,255,1.00) 95.03%);
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #1017A0;
+}
+.container-fluid .container footer {
+    background-image: -webkit-linear-gradient(270deg,rgba(24,61,42,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(24,61,42,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(24,61,42,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(24,61,42,1.00) 0%,rgba(255,0,0,1.00) 100%);
+}
+footer .row .col-lg-6 {
+    color: #E8E8E8;
+}
+.container-fluid .container footer {
+    background-color: #F0F0F0;
+}
+.container-fluid .container footer {
+    background-color: #AEE9C8;
+}
+.container-fluid .container footer {
+
+}
